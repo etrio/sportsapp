@@ -7,7 +7,7 @@ export default function TabTwoScreen() {
             {/* header */}
             <View className="flex-row justify-between items-center pt-6 px-4">
                 <Feather name="edit-2" size={24} color="white" />
-                <Text className="text-3xl text-[#e0e0e0]">Profile</Text>
+                <Text className="text-3xl font-semibold text-[#e0e0e0]">Profile</Text>
                 <Feather name="settings" size={24} color="white" />
             </View>
             {/* profile */}
